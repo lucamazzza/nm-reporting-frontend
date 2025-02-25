@@ -1,6 +1,6 @@
 ---
 title: Near Misses Reporting & Good Solutions
-subtitle: Backend Documentation
+subtitle: Frontend Documentation
 author: Luca Mazza
 include-before:
 - '`\newpage{}`{=latex}'
